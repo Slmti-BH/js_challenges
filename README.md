@@ -16,3 +16,6 @@ Problem: Calculate the sum of numbers within an array
 Problem: Create a function that reverses an array
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/reverseArr.js)
+
+Problem: Sort an array from lowest to highest
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sortArr.js)
