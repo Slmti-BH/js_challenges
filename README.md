@@ -12,3 +12,7 @@ Problem: Create a length converter function from kilometers to miles
 Problem: Calculate the sum of numbers within an array
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sumNoInArr.js)
+
+Problem: Create a function that reverses an array
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/reverseArr.js)
