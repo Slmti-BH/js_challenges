@@ -22,3 +22,5 @@ Problem: Sort an array from lowest to highest
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sortArr.js)
 
 **FreeCodeCamp: JavaScript Algorithms and Data Structures**
+
+Problem: Return the factorial of the provided integer. Only integers greater than or equal to zero will be supplied to the function.
