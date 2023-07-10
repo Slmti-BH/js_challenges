@@ -37,4 +37,8 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sumSquaresArr.js)
 
+9.Problem: You need to design a recursive function called replicate which will receive arguments times and number.
+
+Solution
+
 
