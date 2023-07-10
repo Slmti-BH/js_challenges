@@ -29,5 +29,6 @@
 
 **Recursion exercises**
 7.Problem: Given a multi-dimensional integer array, return the total number of integers, stored inside this array. 
+
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/arrTotalNoIntegers.js)
 
