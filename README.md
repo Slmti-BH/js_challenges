@@ -33,3 +33,6 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/arrTotalNoIntegers.js)
 
+8.Problem:Write a function that sums squares of numbers in list that may contain more lists
+
+
