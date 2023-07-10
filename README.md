@@ -41,4 +41,8 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/recursiveReplication.js)
 
+10.Problem: Write a function called search that finds a value in an array and returns the index where the value is at. If the value is not found, the function should return negative 1.
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/returnIndexOfNo.js)
+
 
