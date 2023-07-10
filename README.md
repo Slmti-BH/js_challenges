@@ -1,28 +1,32 @@
-Problem: 1-Print all even numbers from 0 – 10
+1.Problem: 1-Print all even numbers from 0 – 10
 
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/printEvenNumbers.js)
 
 
-Problem: Create a length converter function from kilometers to miles
+2.Problem: Create a length converter function from kilometers to miles
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/lengthConverter.js)
 
 
-Problem: Calculate the sum of numbers within an array
+3.Problem: Calculate the sum of numbers within an array
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sumNoInArr.js)
 
-Problem: Create a function that reverses an array
+4.Problem: Create a function that reverses an array
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/reverseArr.js)
 
-Problem: Sort an array from lowest to highest
+5.Problem: Sort an array from lowest to highest
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/sortArr.js)
 
 **FreeCodeCamp: JavaScript Algorithms and Data Structures**
 
-Problem: Return the factorial of the provided integer. Only integers greater than or equal to zero will be supplied to the function.
+6.Problem: Return the factorial of the provided integer. Only integers greater than or equal to zero will be supplied to the function.
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/factorializeNumber.js)
+
+**Recursion exercises**
+7.Problem: Given a multi-dimensional integer array, return the total number of integers, stored inside this array. 
+Solution
