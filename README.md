@@ -46,6 +46,7 @@
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/returnIndexOfNo.js)
 
 11.Problem: Write a function called stringifyNumbers which takes in an object and finds all of the values which are numbers and converts them to strings.
-[Solution]()
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/stringifyNumbersRecursion.js)
 
 
