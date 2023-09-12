@@ -49,4 +49,9 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/stringifyNumbersRecursion.js)
 
+12.Problem: Write a recursive function called nestedEvenSum. Return the sum of all even numbers in an object which may contain nested objects
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/stringifyNumbersRecursion.js)
+
+
 
