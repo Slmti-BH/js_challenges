@@ -57,5 +57,8 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/bubbleSort.js)
 
+14.Problem: insertion sort
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/bubbleSort.js)
 
 
