@@ -53,5 +53,9 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/nestedEvenSum.js)
 
+13.Problem: write bubble sort algorithm
+
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/nestedEvenSum.js)
+
 
 
