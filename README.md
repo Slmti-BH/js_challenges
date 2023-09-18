@@ -63,6 +63,6 @@
 
 15.Problem: selection sort
 
-[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/insertionSort.js)
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/selectionSort.js)
 
 
