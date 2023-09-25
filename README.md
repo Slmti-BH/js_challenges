@@ -63,7 +63,7 @@
 
 15.Problem: selection sort
 
-[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/selectionSort.js)
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/mergeSort.js)
 
 16. Problem: Merge Sort
 
