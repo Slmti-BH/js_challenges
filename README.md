@@ -71,4 +71,4 @@
 
 17. Problem: Quick Sort
 
-[Solution]()
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/quickSort.js)
