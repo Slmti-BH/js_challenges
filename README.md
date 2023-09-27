@@ -69,3 +69,6 @@
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/mergeSort.js)
 
+17. Problem: Quick Sort
+
+[Solution]()
