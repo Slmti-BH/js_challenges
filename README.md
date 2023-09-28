@@ -72,3 +72,7 @@
 17. Problem: Quick Sort
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/quickSort.js)
+
+18.Problem: Singly Linked list: push method
+
+[Solution]()
