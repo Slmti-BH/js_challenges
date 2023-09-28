@@ -75,4 +75,4 @@
 
 18.Problem: Singly Linked list: push method
 
-[Solution]()
+[Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/singlyLikedListPush.js)
