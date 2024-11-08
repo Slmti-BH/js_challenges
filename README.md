@@ -100,3 +100,17 @@ function tripletTrue(str){
     
     return false;
 }
+21.Write a function sillyString that accepts a word as an argument. The functions should return a new word where every vowel of the original word is followed by 'b' and that same vowel. For example, 'siren' would turn into 'sibireben'.
+solution:
+function sillyString(str){
+    let resArr=[];
+    let vow=['a','e','o','i','u']
+    for(let i=0; i<str.length;i++){
+        let char=str[i];
+        if(vow.includes(str[i])){
+           char=`${str[i]}b${str[i]}`
+        }
+        resArr.push(char);
+    }
+    return resArr.join('');
+}
