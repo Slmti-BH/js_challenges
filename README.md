@@ -88,3 +88,15 @@ function uncompress(str){
     }
     return resArr.join("");
 }
+
+20.Write a function tripletTrue that accepts a string as an argument. The function should return a boolean indicating whether or not the the string contains three of the same character consecutively.
+Solution:
+function tripletTrue(str){
+    if(str.length<3) return false;
+    for(let i=0; i<str.length-2;i++){
+        if(str[i]===str[i+1] && str[i+1]===str[i+2]) return true;
+        
+    } 
+    
+    return false;
+}
