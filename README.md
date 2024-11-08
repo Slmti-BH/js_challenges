@@ -76,3 +76,15 @@
 18.Problem: Singly Linked list: push method
 
 [Solution](https://github.com/Slmti-BH/js_challenges/blob/main/misc/singlyLikedListPush.js)
+
+19.Write a function uncompress(str) that takes in a "compressed" string as an arg. A compressed string consists of a character immediately followed by the number of times it appears in the "uncompressed" form. The function should return the uncompressed version of the string.
+Solution:
+function uncompress(str){
+    let resArr=[];
+    for(let i=0;i<str.length;i+=2){
+        for(let j=1;j<=str[i+1];j++){
+            resArr.push(str[i]);
+        }
+    }
+    return resArr.join("");
+}
