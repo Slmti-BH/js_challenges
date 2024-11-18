@@ -170,3 +170,18 @@ solution: function doubleLetterCount(string) {
     }
     return count;
 }
+26.Write a method caesarCipher that takes in a string and a number. The function should return a new string where every character of the original is shifted num characters in the alphabet.
+solution: function caesarCipher(string, num) {
+    // your code here
+    const letters="abcdefghijklmnopqrstuvwxyz";
+    let newWord="";
+    for(let i=0;i<string.length;i++){
+        let ind=letters.indexOf(string[i]);
+        if(ind==letters.length-1){
+            ind=-1;
+        }
+        let char=letters[ind+num];
+        newWord+=char;
+    }
+    return newWord;
+}
