@@ -131,3 +131,19 @@ solution: function moreDotLessDash(str){
     
    return dot>dash;
 }
+23.Write a function hasThreeVowels that accepts a string as an argument. The function should return a boolean indicating whether or not the string contains at least three different vowels.
+solution: 
+function hasThreeVowels(str){
+    let vowelCount=0;
+    let vowel=["a","e","i","o","u"]
+    
+    for(let i=0;i<str.length;i++){
+        if(vowelCount==3){break;}
+         else if(vowel.includes(str[i])){
+            vowelCount++;
+            let ind=vowel.indexOf((str[i]));
+            vowel.splice(ind,1);
+    }
+    }
+    return vowelCount>=3;
+}
