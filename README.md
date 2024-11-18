@@ -147,3 +147,14 @@ function hasThreeVowels(str){
     }
     return vowelCount>=3;
 }
+24.Write a function lastIndex that takes in a string and a character. The function should return the last index where the character can be found in the string.
+solution: function lastIndex(str, char) {
+    // your code here
+    let ind=0;
+    for(let i=0;i<str.length;i++){
+        if(str[i]===char){
+            ind=i;
+        }
+    }
+    return ind;
+}
