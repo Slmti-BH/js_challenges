@@ -158,3 +158,15 @@ solution: function lastIndex(str, char) {
     }
     return ind;
 }
+25.Write a function doubleLetterCount that takes in a string and returns the number of times that the same letter repeats twice in a row.
+solution: function doubleLetterCount(string) {
+    // your code here
+    let count=0;
+    
+    for(let i=0;i<string.length-1;i++){
+        if(string[i]===string[i+1]){
+            count++;
+        }
+    }
+    return count;
+}
