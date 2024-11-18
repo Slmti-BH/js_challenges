@@ -114,3 +114,20 @@ function sillyString(str){
     }
     return resArr.join('');
 }
+
+22. Write a function moreDotLessDash that accepts a string as an argument. The function should return a boolean indicating whether or not the string contains more dots (.) than dashes (-).
+solution: function moreDotLessDash(str){
+    let dot=0;
+    let dash=0;
+    
+    for(let i=0;i<str.length;i++){
+        if(str[i]==="."){
+            dot++;
+        }
+        else if(str[i]==="-"){
+            dash++;
+        }
+    }
+    
+   return dot>dash;
+}
