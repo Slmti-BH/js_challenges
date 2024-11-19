@@ -185,3 +185,25 @@ solution: function caesarCipher(string, num) {
     }
     return newWord;
 }
+27. Write a function vowelCipher that takes in a string and returns a new string where every vowel becomes the next vowel in the alphabet.
+solution: function vowelCipher(string) {
+    // your code here
+    const vowel="aeiou";
+    let newWord="";
+    for(let i=0; i<string.length; i++){
+        if(vowel.includes(string[i])){
+            let ind=vowel.indexOf(string[i]);
+            if(ind===vowel.length-1){
+                ind=-1;
+            }
+            
+            newWord+=vowel[ind+1];
+        }
+        else{newWord+=string[i];
+            
+        }
+        
+    }
+    return newWord;
+}
+
