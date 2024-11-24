@@ -219,4 +219,17 @@ solution: function sameCharCollapse(str) {
     
     return arr.join('');
 }
-
+29.A 2-dimensional array is also known as a "matrix". Write a function matrixAddition that accepts two matrices as arguments. The two matrices are guaranteed to have the same "height" and "width". The function should return a new matrix representing the sum of the two arguments. To add matrices, we add the values at the same positions.
+solution: function matrixAddition(mat1, mat2){
+    let resArr=[];
+    for(let i=0;i<mat1.length;i++){
+        let subArr=[];
+        for(let j=0;j<mat1[0].length;j++){
+            subArr.push(mat1[i][j]+mat2[i][j]);
+        }
+        resArr.push(subArr)
+    }
+        
+    
+    return resArr;
+}
